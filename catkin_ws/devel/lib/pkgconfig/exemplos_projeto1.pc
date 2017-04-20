@@ -1,0 +1,8 @@
+prefix=/home/borg/catkin_ws/devel
+
+Name: exemplos_projeto1
+Description: Description of exemplos_projeto1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/borg/catkin_ws/devel/lib 
+Requires: 

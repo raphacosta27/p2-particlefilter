@@ -1,2 +1,0 @@
-robot17/exemplos_projeto1:robot17/gscam:robot17/neato_robot/neato_2dnav:robot17/neato_robot/neato_driver:robot17/neato_robot/neato_node:robot17/neato_robot/neato_robot:robot17/neato_simulator:robot17/particle_filter/simple_filter:robot17/ros-tag-tracking:teleop_twist_keyboard:usb_cam
--DCATKIN_DEVEL_PREFIX=/home/borg/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/borg/catkin_ws/install -G Unix Makefiles
